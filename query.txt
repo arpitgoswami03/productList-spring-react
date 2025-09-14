@@ -1,0 +1,11 @@
+INSERT INTO product (name, price, description, release_date, category, available, quantity) VALUES
+('Laptop', 799.99, 'High performance laptop', '2023-05-10', 'Electronics', TRUE, 12),
+('Headphones', 49.99, 'Noise cancelling headphones', '2023-03-15', 'Accessories', TRUE, 30),
+('Office Chair', 199.99, 'Ergonomic office chair', '2023-02-20', 'Furniture', FALSE, 5),
+('Smartphone', 699.99, 'Latest model smartphone', '2023-07-01', 'Electronics', TRUE, 25),
+('Water Bottle', 15.99, 'Stainless steel water bottle', '2023-01-05', 'Lifestyle', TRUE, 100),
+('Tablet', 399.99, 'Lightweight tablet', '2023-06-12', 'Electronics', TRUE, 18),
+('Backpack', 59.99, 'Durable travel backpack', '2023-04-09', 'Accessories', TRUE, 40),
+('Keyboard', 89.99, 'Mechanical keyboard', '2023-05-22', 'Accessories', TRUE, 20),
+('Shoes', 129.99, 'Running shoes', '2023-02-14', 'Fashion', FALSE, 10),
+('Monitor', 249.99, '4K UHD monitor', '2023-07-20', 'Electronics', TRUE, 15);
